@@ -1,2 +1,3 @@
 # dio-java
-Praticando java no curso da Digital Innovation One
+Praticando java no curso de Backend Developer da Digital Innovation One
+
