@@ -17,5 +17,6 @@ public class ExemploOptionalsPrimitivos {
         System.out.println("Valor long: ");
         OptionalLong.of(34L).ifPresent(System.out::println);
 
+
     }
 }
